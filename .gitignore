@@ -1,1 +1,25 @@
 RealWaste/
+realwaste-main/
+realwaste.zip/
+
+# Kaggle credentials
+kaggle.json
+
+# Zip if you download it directly
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode
+
+# OS/editor junk
+.DS_Store
+
+kaggle-kernel/
+kaggle-kernelv2/
