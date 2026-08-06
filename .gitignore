@@ -21,5 +21,5 @@ venv/
 # OS/editor junk
 .DS_Store
 
-kaggle-kernel/
-kaggle-kernelv2/
+ecosort-kaggle/
+ecosort-data/
