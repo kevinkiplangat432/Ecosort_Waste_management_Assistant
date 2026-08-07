@@ -1,4 +1,7 @@
 # EcoSort Waste Management Assistant
+**Kaggle notebook:** [EcoSort Waste Management Assistant](https://www.kaggle.com/code/kevinkiplangat432/ecosort-waste-management-assistant)
+
+>For the best viewing experience, including all cell outputs, plots, and confusion matrices, >view this notebook on Kaggle rather than through GitHub's notebook renderer, which can sometimes fail to render large notebooks with heavy output cleanly.
 
 Module 8 Summative Lab, an integrated waste classification and disposal guidance system for Metro City, combining a CNN, a text classifier, and a retrieval augmented generation (RAG) system into a single assistant.
 
